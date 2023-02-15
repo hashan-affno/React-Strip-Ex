@@ -1,2 +1,2 @@
-# React-Strip-Ex
+# ShopiumX
 Created with CodeSandbox
